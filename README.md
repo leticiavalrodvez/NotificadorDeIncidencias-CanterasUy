@@ -11,3 +11,4 @@ Y por último dos botones, uno para el reset de la página y otro para el envío
 ## ¿A dónde se dirigen los datos?
 Los datos ingresados se dirigen a un archivo PHP enlazado al HTML.
 ## Link a la página en Git-Pages
+https://leticiavalrodvez.github.io/NotificadorDeIncidencias-CanterasUy/
